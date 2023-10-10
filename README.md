@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [jasminetaylor.dev](jasminetaylor.dev)
 
-- 💬 Ask me about **being coummunity taught.**
+- 💬 Ask me about **being community taught.**
 
 - ⚡ Fun fact **I'm a ✨ gamer ✨ in my free time.**
 
