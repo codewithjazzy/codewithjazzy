@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Node.js, React, MongoDB**
 
-- 👨‍💻 All of my projects are available at [jasminetaylor.dev](jasminetaylor.dev)
+- 👨‍💻 All of my projects are available right [here](https://jasminetaylor.dev/)
 
 - 💬 Ask me about **being community taught.**
 
