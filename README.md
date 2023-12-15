@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **portfolio building projects**
 
-- 🌱 I’m currently learning **Javascript, Node.js, React, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express, & React**
 
 - 👨‍💻 All of my projects are available right [here](https://jasminetaylor.dev/)
 
