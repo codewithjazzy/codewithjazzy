@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **being community taught.**
 
-- ⚡ Fun fact **I'm a ✨ gamer ✨ in my free time and learning to play ukulele.**
+- ⚡ Fun fact **both of my pets are named after Vampire Queens. Pics and lore are available upon request**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <img src="https://a11ybadges.com/badge?logo=html5"/> <img src="https://a11ybadges.com/badge?logo=css3"/> <img src="https://a11ybadges.com/badge?logo=javascript"/> <img src="https://a11ybadges.com/badge?logo=nodedotjs"/> <img src="https://a11ybadges.com/badge?logo=express"/> <img src="https://a11ybadges.com/badge?logo=react"/> <img src="https://a11ybadges.com/badge?logo=mongodb"/> <img src="https://a11ybadges.com/badge?logo=tailwindcss"/>
