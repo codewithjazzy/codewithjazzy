@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available right [here](https://jasminetaylor.dev/)
 
-- 💬 Ask me about **being community taught.**
+- 💬 Ask me about **being community taught**
 
 - ⚡ Fun fact **both of my pets are named after Vampire Queens. Pics and lore are available upon request**
 
