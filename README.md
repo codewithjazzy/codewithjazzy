@@ -5,9 +5,9 @@
   <a href="https://twitter.com/codewithjazzy"  target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="codewithjazzy"/></a>
 </p>
 
-- 🔭 I’m currently working on **portfolio building projects**
+- 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **React, Jest, and Typescript**
+- 🌱 I’m currently learning **Jest, and Typescript**
 
 - 👨‍💻 All of my projects are available right [here](https://jasminetaylor.dev/)
 
