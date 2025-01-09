@@ -1,12 +1,12 @@
 <h1 align="center">👋🏾 Hey there, I'm Jasmine</h1>
-<h4 align="center">I am a Software Engineer with a heart for human service</h4>
-<h4 align="center">and a dedication to solving problems with technology</h4>
+<h4 align="center">I'm a dynamic and dedicated Software Engineer with a unique background in health and wellness.</h4>
+<h4 align="center">Based in California, I blend a passion for technology with a heart for human service.</h4>
 <p align="center">
-  <a href="https://linkedin.com/in/codewithjazzy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codewithjazzy"/></a>
-  <a href="https://twitter.com/codewithjazzy"  target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="codewithjazzy"/></a>
+  <a href="https://linkedin.com/in/codewithjazzy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="codewithjazzy"/></a>
+  <a href="https://twitter.com/codewithjazzy"  target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="codewithjazzy"/></a>
 </p>
 
-### About Me
+## About Me
 - 🔭 I’m currently working on [Taíno Language App](https://github.com/itskarelleh/taino-language-app)
 
 - 🌱 I’m currently learning **Java**
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **both of my pets are named after Vampire Queens. Pics and lore are available upon request**
 
-### Technical Skills 
+## Technical Skills 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge">
 <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge">
@@ -37,5 +37,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge">
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic" alt="npm Badge">
 
-
+##
 [![@codewithjazzy's Holopin badges](https://holopin.me/codewithjazzy)](https://holopin.io/@codewithjazzy)
