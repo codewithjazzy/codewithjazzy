@@ -18,8 +18,24 @@
 - ⚡ Fun fact **both of my pets are named after Vampire Queens. Pics and lore are available upon request**
 
 ### Technical Skills 
-<p align="center"> <img src="https://a11ybadges.com/badge?logo=html5"/> <img src="https://a11ybadges.com/badge?logo=css3"/> <img src="https://a11ybadges.com/badge?logo=javascript"/> <img src="https://a11ybadges.com/badge?logo=nodedotjs"/> <img src="https://a11ybadges.com/badge?logo=express"/> <img src="https://a11ybadges.com/badge?logo=react"/> <img src="https://a11ybadges.com/badge?logo=mongodb"/> <img src="https://a11ybadges.com/badge?logo=tailwindcss"/>
-<img src="https://a11ybadges.com/badge?text=CLOUDINARY&badgeColor=rgb(52,72,197)&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2xvdWRpbmFyeTwvdGl0bGU+PHBhdGggZD0iTTI0IDE0Ljg1OThjMCAyLjE3MjktMS4zNzU3IDMuOTc0LTMuNTkwMyA0LjY5OTZsLS4wOTk1LjAzMThWMTcuOTg5YzEuMzc3Ny0uNTgwNSAyLjE4NjktMS43Mjc1IDIuMTg2OS0zLjEyOTEtLjAwNzItMi0xLjYwODctMy42Mjg4LTMuNjA4Mi0zLjY2OTloLS41OTY0bC0uMTQzMi0uNTY4NmMtLjcwMjUtMi44OTk2LTMuMjg4Ni00Ljk0ODktNi4yNzIxLTQuOTdhNi4zOTE1IDYuMzkxNSAwIDAgMC01LjgxMSAzLjY2NGwtLjE4MjguMzc1Ny0uNDE3NS4wNDM3YTQuNDMxMSA0LjQzMTEgMCAwIDAtMy4zMDUyIDIuMDg4Yy0xLjI4MDMgMi4wODU2LS42Mjc0IDQuODE0MyAxLjQ1ODMgNi4wOTQ3djEuNjg5N2gtLjAxbC0uMTQ5LS4wNjc1YTUuOTQwMiA1Ljk0MDIgMCAwIDEtMy4zNjU4LTQuMzQ5NGMtLjU3ODctMy4yMjkxIDEuNTctNi4zMTYxIDQuNzk5MS02Ljg5NDhhNy44NzY2IDcuODc2NiAwIDAgMSA2Ljk4MzktNC4xNDljMy40NzI0LjAyNSA2LjUzNSAyLjI4IDcuNTkwMSA1LjU4ODMgMi41Nzg5LjMzNjYgNC41MTM4IDIuNTI0NSA0LjUzMjcgNS4xMjUxem0tMTUuMzE3Ni0xLjMyMmguNTY0N2EuMDY1Ni4wNjU2IDAgMCAwIC4wNDU3LS4xMTEzTDcuMDg0IDExLjIxNThsLS4wMDA3LS4wMDA3YS4wNjU2LjA2NTYgMCAwIDAtLjA5MjcuMDAwN0w0Ljc4IDEzLjQyNjVhLjA2NTYuMDY1NiAwIDAgMCAuMDQ3Ny4xMTEzaC41NTY2YS4wNjU2LjA2NTYgMCAwIDEgLjA2NTcuMDY1NnY1LjA1NzRjMCAuNjU4OC41MzQgMS4xOTI4IDEuMTkyOCAxLjE5MjhIOS4yNDdhLjA2NTYuMDY1NiAwIDAgMCAuMDQ1Ny0uMTExM2wtLjMzLS4zM2ExLjE5MjggMS4xOTI4IDAgMCAxLS4zNDgtLjgzOXYtNC45N2EuMDY3Ni4wNjc2IDAgMCAxIC4wNjc2LS4wNjU1em05Ljc2OSAyLjU0NjZoLjU2NjdhLjA2NTUuMDY1NSAwIDAgMCAuMDQ1Ny0uMTEzM2wtMi4yMTA3LTIuMjA4Ny0uMDAxNS0uMDAxNWEuMDYzNi4wNjM2IDAgMCAwLS4wODk5LjAwMTVMMTQuNTUxIDE1Ljk3MWEuMDY1Ny4wNjU3IDAgMCAwIC4wNDU3LjExMzNoLjU1NjdhLjA2NTYuMDY1NiAwIDAgMSAuMDY1Ni4wNjU2djIuNTEwOGMwIC42NTg4LjUzNCAxLjE5MjggMS4xOTI4IDEuMTkyOGgyLjYwNjNhLjA2NTUuMDY1NSAwIDAgMCAuMDQ1Ny0uMTExM2wtLjMzLS4zM2ExLjE5MjggMS4xOTI4IDAgMCAxLS4zNDgtLjgzOVYxNi4xNWEuMDY1Ni4wNjU2IDAgMCAxIC4wNjU3LS4wNjU2em0tNC44ODQ0LTEuMjc0M2guNTY0NmEuMDY1Ni4wNjU2IDAgMCAwIC4wNDc3LS4xMTE0bC0yLjIxMDctMi4yMDI3LS4wMDA2LS4wMDA2YS4wNjU2LjA2NTYgMCAwIDAtLjA5MjguMDAwNmwtMi4yMDg3IDIuMjA2OGEuMDY1Ni4wNjU2IDAgMCAwIC4wNDU3LjExMTNoLjU2MjZhLjA2NzYuMDY3NiAwIDAgMSAuMDY1Ny4wNjc2djMuNzc5MWMwIC42NTg4LjUzNCAxLjE5MjggMS4xOTI4IDEuMTkyOGgyLjU5ODNhLjA2NTYuMDY1NiAwIDAgMCAuMDQ3Ny0uMTExM2wtLjMzMi0uMzNhMS4xOTMgMS4xOTMgMCAwIDEtLjM0Ni0uODM5di0zLjY5NTZjMC0uMDM2Ni4wMjkxLS4wNjY1LjA2NTctLjA2NzZ6Ii8+PC9zdmc+"/> <img src="https://a11ybadges.com/badge?logo=openai"/> <img src="https://a11ybadges.com/badge?logo=git"/> <img src="https://a11ybadges.com/badge?logo=typescript"/>
- </p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=plastic" alt="Cloudinary Badge">
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=plastic" alt="Postman Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge">
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic" alt="Figma Badge">
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=plastic" alt="OpenAI Badge">
+<img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=plastic" alt="Nodemon Badge">
+<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=plastic" alt="Expo Badge">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge">
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic" alt="npm Badge">
+
 
 [![@codewithjazzy's Holopin badges](https://holopin.me/codewithjazzy)](https://holopin.io/@codewithjazzy)
